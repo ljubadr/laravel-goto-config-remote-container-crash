@@ -1,4 +1,4 @@
-Repository reproduce the issue with vscode crash and restart when using [ctf0/laravel-goto-config](https://github.com/ctf0/laravel-goto-config) extension inside [remote containers](https://code.visualstudio.com/docs/remote/containers). This is barebone laravel setup after following steps in [installation via composer](https://laravel.com/docs/9.x/installation#installation-via-composer) and [using devcontainers](https://laravel.com/docs/9.x/sail#using-devcontainers)
+Repository reproduce [the issue with vscode crash and restart](https://github.com/ctf0/laravel-goto-config/issues/5) when using [ctf0/laravel-goto-config](https://github.com/ctf0/laravel-goto-config) extension inside [remote containers](https://code.visualstudio.com/docs/remote/containers). This is barebone laravel setup after following steps in [installation via composer](https://laravel.com/docs/9.x/installation#installation-via-composer) and [using devcontainers](https://laravel.com/docs/9.x/sail#using-devcontainers)
 
 ## Setup
 
